@@ -1,5 +1,7 @@
 # Physica
 
+[![Built with Claude](https://commons.wikimedia.org/wiki/Special:FilePath/Claude_AI_symbol.svg?width=24)](https://claude.ai/) [![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-D97757?logo=anthropic&logoColor=white)](https://anthropic.com)
+
 ### Explore. Experiment. Discover.
 
 **Physica** is an interactive 3D physics laboratory designed to make exploring physical phenomena more intuitive, visual, and engaging.
@@ -237,5 +239,6 @@ Physica is not intended to replace professional scientific simulation or enginee
 
 ## License
 
-No license has currently been specified for this repository.
+Physica is released under the [MIT License](LICENSE).
 
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, subject to the conditions of the MIT License.
