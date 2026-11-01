@@ -83,6 +83,10 @@ Experimental scenes are stored locally using browser `localStorage`, allowing co
 No external database is required.
 
 ---
+## Mobile Compatibility
+
+Physica can be accessed on mobile devices through desktop-site mode in a mobile browser. The interface remains usable in portrait orientation, although the experience is optimized for desktop screens and may require more precise touch input.
+
 
 ## Technology Stack
 
